@@ -1,0 +1,156 @@
+
+.contenedor{
+background-color: white;
+width: 103%;
+left: -1%;
+position: relative;
+top: 10%;
+bottom: 20%;
+top: -8px;
+padding-top: 20%;
+padding-bottom: 20px;
+}
+
+.fondo{
+width: 98%;
+background-color: pink;
+opacity: 90%;
+position: relative;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: center;
+  padding-block-start: 0;
+  height: 10%;,
+}
+
+.color{
+    background-color: ;
+    width: 50%;
+    height: 100%;
+  }
+
+
+
+.primer{
+  position: relative;
+  right: -4% ;
+  width: 50%;
+  height: 100%;
+}
+
+.logo_gob{
+position: relative;
+  left: -30% ;
+  width: 200px; 
+  height: auto;
+}
+
+.logo_uni{
+  position: relative;
+  top: 19x;
+  left: 30% ;
+  width: 280px;
+  height: 150px;}
+
+.IndexEncriptador{
+  position: relative;
+  top: 151px;
+  font-size: 160%;
+  right:180%;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.IndexEncriptadorHome{
+  position: relative;
+  top: 120px;
+  font-size: 160%;
+  right: 420%;
+  list-style: none;
+  text-decoration: none;
+}
+
+.IndexEjercicio{
+  position: relative;
+  top: 92px;
+  font-size: 160%;
+  right: -100%;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+
+.reglas{
+  background-repeat: no-repeat;
+  background-size: 103%;
+  width: 103%;
+  margin-left: 0%;
+  margin-right: -0%;
+  margin-top: -1%;
+  padding-bottom: 2%;
+  position:relative;
+  left: -1%;
+   }
+
+
+.desafio{
+margin-left: 33% ;
+display: inline-block;
+color: #452c63;
+font-size: 100%;
+padding: 10px 60px 5px 60px;
+border-style: double;
+border-color: aquamarine;
+border-width: 7px;
+background-color: #FFFDD0  ;
+border-radius: 10%;
+margin-top: 2% ;
+}
+
+
+.sobre{
+color: #93C572 ;
+text-shadow: 2px 2px 4px orange, 0 0 1em pink, 0 0 0.2em pink;
+font-size: 200%;
+display: inline-block;
+font-style: oblique;
+
+}
+
+.fondo{
+  display: inline-block;
+  background-repeat: no-repeat;
+  border-width: 1000%;
+}
+
+
+.color{
+  color:gray;
+  display: inline-block;
+  text-align: left;
+  font:#191970;
+  font-size: 113%;
+  border: 10%;
+}
+
+.texto_desarrollo {
+    float: left;
+    width: 50%; /* Ajusta el ancho según sea necesario */
+    margin-left: 30px;
+    margin-right: -20px; /* Espacio entre el texto y el formulario */
+}
+
+.form {
+    float: right;
+    width: -39%; 
+}
+
+body::after {
+    content: "";
+    display: table;
+    clear: both;
+}
